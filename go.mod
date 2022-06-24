@@ -1,4 +1,4 @@
-module golang.org/x/mobile
+module github.com/owner888/gomobile-cache-mod
 
 go 1.16
 
